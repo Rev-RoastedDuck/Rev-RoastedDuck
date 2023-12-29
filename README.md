@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Rev-RoastedDuck" /> </div>
+
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Rev-RoastedDuck&theme=xcode" /> </div>
+
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rev-RoastedDuck" /> </div>
 
 <div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=Rev-RoastedDuck"> </div>
