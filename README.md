@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Rev-RoastedDuck/Rev-RoastedDuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +16,7 @@ Here are some ideas to get you started:
 
 <!--tps://github-readme-stats.vercel.app/api?username=stacklens&show_icons=true&theme=radical-->
 <!--<div align="center"> <img src="https://img.shields.io/badge/python-3.9-orange"> </div>-->
-<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=m0_72760466&theme=dark"> </div>
-<div align="center"> <img src = "https://github-readme-stats.vercel.app/api?username=Rev-RoastedDuck&theme=dark"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rev-RoastedDuck&theme=dark" /> </div>
+<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=m0_72760466&theme=dark"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rev-RoastedDuck&theme=dark" /> </div>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rev-RoastedDuck&theme=react-dark"> </div>
 
 
