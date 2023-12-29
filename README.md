@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rev-RoastedDuck&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
-
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Rev-RoastedDuck" /> </div>
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Rev-RoastedDuck&theme=xcode" /> </div>
-
+<!--tps://github-readme-stats.vercel.app/api?username=stacklens&show_icons=true&theme=radical-->
+<!--<div align="center"> <img src="https://img.shields.io/badge/python-3.9-orange"> </div>-->
+<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=m0_72760466"> </div>
+<div align="center"><img src = "https://github-readme-stats.vercel.app/api?username=Rev-RoastedDuck"/></div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rev-RoastedDuck" /> </div>
 
-<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=Rev-RoastedDuck"> </div>
+
+
+
+
+
